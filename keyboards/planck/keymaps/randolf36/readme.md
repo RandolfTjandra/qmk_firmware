@@ -17,7 +17,14 @@ Changes so far
 -   Hold a for ctl and tap for a
 -   Put tab where lower used to be
 -   Adjust the behavior of the mod tapping so I can type at normal speed
+-   Put gui and alt on home row
+-   Put meh on hold behavior of tab
+-   Put esc where alt used to be
+-   Remove the left column keys
 
-<!-- function foobar(param: string) { -->
-<!-- console.log(param); -->
-<!-- } -->
+I think these changes so far are ok but I have to be careful not to overwhelm
+myself because there is a lot of changes to have to get used to.
+
+I think the worst so far is the new return position and tab. Incidentally they happen
+to be on mirrored positions on the keyboard. That is, they're both the keys
+immediately next to the space/backspace keys
